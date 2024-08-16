@@ -1,0 +1,5 @@
+CLASS zbp_i_wgttolerance DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_wgttolerance.
+ENDCLASS.
+
+CLASS zbp_i_wgttolerance IMPLEMENTATION.
+ENDCLASS.

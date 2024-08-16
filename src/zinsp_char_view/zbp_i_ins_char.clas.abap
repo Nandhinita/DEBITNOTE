@@ -1,0 +1,9 @@
+CLASS zbp_i_ins_char DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_ins_char.
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZBP_I_INS_CHAR IMPLEMENTATION.
+ENDCLASS.

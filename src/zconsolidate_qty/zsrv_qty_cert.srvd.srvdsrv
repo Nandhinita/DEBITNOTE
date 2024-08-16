@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Driver cds view'
+define service ZSRV_QTY_CERT {
+  expose ZI_QTY_CERT;
+}
